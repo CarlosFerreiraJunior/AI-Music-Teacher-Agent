@@ -1,0 +1,7 @@
+.venv/
+.uv-cache/
+__pycache__/
+*.py[cod]
+.tmp-tests/
+outputs/
+outputs-test/

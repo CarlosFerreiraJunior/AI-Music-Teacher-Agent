@@ -1,0 +1,12 @@
+[project]
+name = "ai-music-teacher-agent"
+version = "0.1.0"
+description = "MVP local de um agente professor de musica para violao e cavaquinho."
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+music-teacher = "music_teacher.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
