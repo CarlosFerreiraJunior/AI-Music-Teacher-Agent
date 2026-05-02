@@ -39,6 +39,7 @@ project:
       architecture: "docs/architecture-mvp.md"
       backlog: "docs/sprint-01-backlog.md"
       qa_report: "docs/qa-report-sprint-01.md"
+      squad: "docs/squad-agentica.md"
       readme: "README.md"
     checkpoints:
       - "PM aprova arquitetura e backlog antes da implementacao."
